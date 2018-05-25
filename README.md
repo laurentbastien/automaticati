@@ -1,2 +1,2 @@
 # automaticati
-Automatically ask for completed ATIs from Canadian government.
+Automatically request completed ATIs/FOIs from Canadian government.
